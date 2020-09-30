@@ -1,0 +1,162 @@
+{
+  "version": "1.0",
+  "identifier": "Seiji_Tkach_Takemura",
+  "title": "Du Jude",
+  "language": "en",
+  "layout": {
+    "columns": 7,
+    "width": 1024,
+    "margin": 70,
+    "gutter": 40
+  },
+  "subtitle": "Auf den Spuren des Antisemitismus am Goethe-Gymnasium",
+  "metadata": {
+    "excerpt": "Simple with Headline above Header Image",
+    "thumbnailURL": "https://images.app.lucidpress.com/images/1f399971-49d1-4148-b250-058f3d776f6d/content"
+  },
+  "documentStyle": {
+    "backgroundColor": "#ffffff"
+  },
+  "components": [
+    {
+      "role": "title",
+      "layout": "titleLayout",
+      "text": "Du Jude",
+      "textStyle": "titleStyle"
+    },
+    {
+      "role": "intro",
+      "layout": "introLayout",
+      "text": "Auf den Spuren des Antisemitismus am Goethe-Gymnasium",
+      "textStyle": "introStyle"
+    },
+    {
+      "role": "header",
+      "layout": "headerImageLayout",
+      "style": {
+        "fill": {
+          "type": "image",
+          "URL": "https://images.app.lucidpress.com/images/1f399971-49d1-4148-b250-058f3d776f6d/content",
+          "fillMode": "cover",
+          "verticalAlignment": "center"
+        }
+      }
+    },
+    {
+      "role": "author",
+      "layout": "authorLayout",
+      "text": "PULS#4 | Clara Urban | Hana Tkach Takemura",
+      "textStyle": "authorStyle"
+    },
+    {
+      "role": "body",
+      "text": "9. Oktober / Tag des jüdischen Versöhnungsfestes Jom Kippur / Halle:  Ein rechtsradikaler Terrorist versucht, die Tür einer Synagoge aufzuschießen, um die dort betenden Juden zu ermorden – auch mit den Sprengsätzen aus seinem Auto. Als er es nicht schafft, sich Eintritt zu verschaffen, erschießt er zwei Menschen und ergreift die Flucht.\n\nViele deutsche Juden berichten von einem steigenden Antisemitismus. So hat beispielsweise das Fußballteam des Frankfurter jüdischen Vereins TuS Makkabi ,ansässig ganz in unserer Nachbarschaft im Westend, regelmäßig mit antisemitischen Anfeindungen zu kämpfen.\n\nEs werde wieder „salonfähig“, sich antisemitisch zu äußern, berichtet Ben Salomo bei einem Workshop in der jüdischen Gemeinde Frankfurts (siehe vorangegangener Artikel S. 8/9). Auch Beschimpfungen wie „Du Jude!“ seien auf deutschen Schulhöfen keine Seltenheit mehr.\n\nWeshalb ist dies so? Vielleicht, weil Antisemitismus für einige so weit weg von unserer Realität scheint?\n\nWeil die Schrecken der Vergangenheit in unseren Köpfen zu verblassen beginnen?\n\nDabei findet man die Geschichte des Judenhasses überall in Frankfurt und nicht zuletzt auch an dem Ort, an dem wir jeden Tag zur Schule gehen. (1)\n\nLasst uns eine Zeitreise machen. Unsere erste Station ist der 21. März in Berlin des Jahres 1883.\n\nRichard Wagner ist im letzten Monat gestorben, die elektrische Lokomotive ist erfunden und Wilhelm I. ist Kaiser des Deutschen Reichs. Heute wird ein kleiner, jüdischer Junge geboren, der später auf den Namen Ernst Neustadt hören soll. Ihm wird einmal die Akte 207038 im Frankfurter Stadtarchiv gehören, welche uns die Zukunft des Neugeborenen erzählt.\n\nUnsere Zeitreise geht weiter, 50 Jahre nach Ernst Neustadts Geburt befinden wir uns am Anfang des Dritten Reichs.\n\nIn Deutschland ist der Judenhass zu einer riesigen, unaufhaltsamen Lawine geworden, Hitler ist an der Macht und die roten Hakenkreuzfahnen der NSDAP wehen im Wind.\n\nDer kleine Junge aus Berlin ist inzwischen Lehrer an unserem Goethe-Gymnasium.\n\nAber noch viel wichtiger ist, dass der Name, den er damals bekam, „ergänzt“ wurde:\n\nEr ist nun Ernst (Israel) Neustadt.\n\nEin Name, der ihn als Juden kennzeichnen soll und den er, vielleicht als kleinen Widerstand, stets in Klammern zu setzen pflegt.\n\nErnst (Israel) Neustadt ist ein Dorn im Auge für jeden Nazi, so heißt es in seiner Personalakte:\n\n„Es ist unmöglich, dass er sich bei seiner humanitären, demo- kratischen, weltbürgerlichen, pazifistischen Einstellung als Lehrer für die deutsch- völkische Erziehung einsetzten kann.“ „ […] Am Goethe- Gymnasium herrscht ein jüdisch-pazifistischer Geist. Der sozialistische Schülerbund hat in dieser Anstalt eine besonders hohe Mitgliederzahl.“\n\nZu damaliger Zeit wird diese Haltung zu einem Verhängnis. Auch für Ernst Neustadt.\n\nIronischerweise zeichnet die Akte ein Bild von ihm, das uns in der heutigen Zeit wahrscheinlich sehr sympathisch vorkommen: Er scheint aufgeklärt, intelligent, friedlich und menschlich: ein echter Demokrat.\n\nMan kann sich den Druck der mehr und mehr steigenden Anfeindungen am Goethe- Gymnasium, in welchem die Anzahl der jüdischen Schüler deutlich gesunken ist, denken. Und eben dies und die nachzulesenden Anfeindungen bewegen ihn schließlich dazu, im Jahre 1939 nach Schottland zu immigrieren.\n\nAls seine Rentenzahlungen eingestellt werden sollen, schreibt Herr Neustadt dem Leiter der zuständigen Behörde persönlich: \n\n„Die Gründe, aus denen ich nicht persönlich bei den Behörden vorsprechen möchte, werden sie begreifen und billigen.“\n\nWeiter können wir dem einstigen Lehrer am Goethe-Gymnasium nicht folgen, denn die Personal- akte endet mit Beschreibungen eines jüdischen Vaterlands- verräters im feindlichen Ausland.\n\nHätten Ernst Neustadts Eltern bei seiner Geburt 1883 jemals gedacht, dass ihr Sohn einmal aus seinem Land vertrieben wird? Hätten sie sich vorstellen können, dass er trotz erfolgreicher Karriere und einstiger Anerkennung gezwungen sein wird, alles hinter sich zu lassen?\n\nDass man ihm einen Namen anhängen wird, damit jeder sehen kann, dass er für die Nazis nicht mehr Mensch; sondern ein „Jude!“ ist?\n\nDass in einer Reichspogromnacht* die Synagogen und die Häuser zahlreicher Juden zerstört werden? Dass die Menschen, die diesen Glauben teilen, zu Millionen grausam ermordet werden?  War dies für sie damals genauso unvorstellbar, wie für uns heute der Gedanke, unsere jüdischen Mitschüler und Freunde könnten sich in Ernst Neustadts Lage wiederfinden?",
+        "layout": "bodyLayout",
+        "textStyle": "bodyStyle"
+    },
+    {
+      "role": "header",
+      "layout": "headerImageLayout",
+      "style": {
+        "fill": {
+          "type": "image",
+          "URL": "https://images.app.lucidpress.com/images/288d9bee-d3db-49e0-b592-a1f252d88764/content",
+          "fillMode": "cover",
+          "verticalAlignment": "center"
+        }
+      }
+    },
+    {
+        "role": "body",
+        "text": "Dass sie in einigen Jahren den Namen Israel oder Sara (für Frauen) verpasst bekommen würden?\n\nDer Gedanke, sie könnten einmal gezwungen sein, aus diesem Land zu fliehen und alles zurückzulassen?\n\nOder gar die Vorstellung, man selbst wäre es, der in einigen Jahren wegschauen würde, wenn sie auf Grund ihres Glaubens ermordet würden?\n\nAm 9. Oktober 2019 hat sich gezeigt, dass Polizeischutz und eine abgeschlossene Synagoge nötig sind, um einen rechtsradikalen Terroristen davon abzuhalten, gezielt Juden zu ermorden.\n\nDie antisemitischen Beleidigungen finden wieder den Weg in die Mitte unserer Gesellschaft.\n\nWenn ich eines hoffen mag, dann, dass wir nicht wegschauen, wenn ein Mitschüler mit „Du Jude!“ beleidigt oder wenn das Team von TuS Makkabi beschimpft wird.\n\nDenn hier fängt Antisemitismus an und wird ganz sicher nicht auf dem Schulhof bleiben. Vielleicht sollten wir öfter mal eine Zeitreise machen.\n\nUns an dem von den Nazis verhassten „jüdisch-pazifistischem“ Geist am damaligen Goethe-Gymnasium ein Beispiel nehmen.\n\nUnd uns ab und zu an den „humanitären, demokratischen, weltbürgerlichen“ Lehrer Ernst Neustadt erinnern.\n\n(1) Personalakte von Ernst (Israel) Neustadt (207038), ehem. Lehrer und Leiter, handschriftlich und mit der Schreibmaschine verfasste Texte, eingesehen im Frankfurter Stadtarchiv zu Beginn des Jahres 2019.\n\n",
+      "layout": "bodyLayout",
+      "textStyle": "bodyStyle"
+    }
+  ],
+  "componentTextStyles": {
+    "default-title": {
+      "fontName": "HelveticaNeue-Thin",
+      "fontSize": 36,
+      "textColor": "#2F2F2F",
+      "textAlignment": "center",
+      "lineHeight": 44
+    },
+    "default-subtitle": {
+      "fontName": "HelveticaNeue-Thin",
+      "fontSize": 20,
+      "textColor": "#2F2F2F",
+      "textAlignment": "center",
+      "lineHeight": 24
+    },
+    "titleStyle": {
+      "textAlignment": "left",
+      "fontName": "HelveticaNeue-Bold",
+      "fontSize": 64,
+      "lineHeight": 74,
+      "textColor": "#000"
+    },
+    "introStyle": {
+      "textAlignment": "left",
+      "fontName": "HelveticaNeue-Medium",
+      "fontSize": 24,
+      "textColor": "#000"
+    },
+    "authorStyle": {
+      "textAlignment": "left",
+      "fontName": "HelveticaNeue-Bold",
+      "fontSize": 16,
+      "textColor": "#000"
+    },
+    "bodyStyle": {
+      "textAlignment": "left",
+      "fontName": "HelveticaNeue",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "textColor": "#000"
+    }
+  },
+  "componentLayouts": {
+    "headerImageLayout": {
+      "columnStart": 0,
+      "columnSpan": 7,
+      "ignoreDocumentMargin": true,
+      "minimumHeight": "40vh",
+      "margin": {
+        "top": 15,
+        "bottom": 15
+      }
+    },
+    "titleLayout": {
+      "columnStart": 0,
+      "columnSpan": 7,
+      "margin": {
+        "top": 50,
+        "bottom": 10
+      }
+    },
+    "introLayout": {
+      "columnStart": 0,
+      "columnSpan": 7,
+      "margin": {
+        "top": 15,
+        "bottom": 15
+      }
+    },
+    "authorLayout": {
+      "columnStart": 0,
+      "columnSpan": 7,
+      "margin": {
+        "top": 15,
+        "bottom": 15
+      }
+    },
+    "bodyLayout": {
+      "columnStart": 0,
+      "columnSpan": 5,
+      "margin": {
+        "top": 15,
+        "bottom": 15
+      }
+    }
+  }
+}
