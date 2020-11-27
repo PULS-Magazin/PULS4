@@ -1,18 +1,18 @@
 [
     {
-        "userid": 1,
+        "userId": 1,
         "id": 1,
         "title": "Du Jude",
         "body": "Auf den Spuren des Antisemitismus am Goethe-Gymnasium"
     }
     {
-        "userid": 1,
+        "userId": 1,
         "id": 2,
         "title": "Beyond",
         "body": "Von Wolkenkratzern und Sternen..."
     }
     {
-        "userid": 1,
+        "userId": 1,
         "id": 3,
         "title": "Pasch",
         "body": "Die Welt bei uns zu gast"
